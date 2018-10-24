@@ -2,7 +2,7 @@
 At the moment I use QTranslate Version  6.7.1.
 
 
-
+<code>
 ;/¯¯¯¯ QTranslateVoiceReader ¯¯ 181024084514 ¯¯ 24.10.2018 08:45:14 ¯¯\
 #IfWinActive,
 ^i::
@@ -59,3 +59,4 @@ tooltip,
 return
 ;\____ QTranslateVoiceReader __ 181024084505 __ 24.10.2018 08:45:05 __/
 
+</code>
